@@ -29,6 +29,20 @@ The robot autonomously navigates through a maze by:
 
 ---
 
+## 🎮 Maze Simulation
+
+<div align="center">
+  <img src="images/python-robotics-micro-project.jpg" alt="TurtleBot Maze Navigation" width="90%">
+  <p><em>TurtleBot navigating through maze using odometry-based rotation and precise movement control</em></p>
+</div>
+
+**Simulation Environment:**
+- ✅ Wooden maze with multiple turns
+- ✅ TurtleBot autonomous navigation
+- ✅ Odometry-based rotation (±2° accuracy)
+- ✅ Real-time TF transform visualization
+
+---
 ## 📋 Table of Contents
 
 - [Features](#features)
