@@ -535,6 +535,12 @@ This project demonstrates mastery of:
 
 ---
 
+## 👤 Author
+
+**AmirHossein Osooli**
+
+---
+
 ## 🤝 Contributing
 
 Feel free to:
@@ -548,12 +554,6 @@ Feel free to:
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) file for details
-
----
-
-## 👤 Author
-
-**AmirHossein Osooli**
 
 ---
 
