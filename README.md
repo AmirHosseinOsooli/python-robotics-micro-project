@@ -65,7 +65,7 @@ The robot autonomously navigates through a maze by:
 ## 📁 Project Structure
 
 ```
-python-robotics-micro-project/
+ROS-Micro-Project/
 ├── src/
 │   ├── robot_control_class.py       # Enhanced RobotControl class
 │   └── maze_navigation.py           # Main maze navigation logic
@@ -101,7 +101,7 @@ mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
 
 # 2. Clone repository
-git clone https://github.com/yourusername/python-robotics-micro-project.git
+git clone https://github.com/AmirHosseinOsooli/ROS-Micro-Project.git
 
 # 3. Install dependencies
 cd ~/catkin_ws
@@ -114,7 +114,7 @@ catkin_make
 source devel/setup.bash
 
 # 6. Make scripts executable
-chmod +x ~/catkin_ws/src/python-robotics-micro-project/src/*.py
+chmod +x ~/catkin_ws/src/ROS-Micro-Project/src/*.py
 ```
 
 ---
@@ -128,7 +128,7 @@ chmod +x ~/catkin_ws/src/python-robotics-micro-project/src/*.py
 roslaunch turtlebot_gazebo turtlebot_world.launch
 
 # Terminal 2: Run maze navigation
-cd ~/catkin_ws/src/python-robotics-micro-project/src
+cd ~/catkin_ws/src/ROS-Micro-Project/src
 python maze_navigation.py
 ```
 
@@ -551,11 +551,9 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## 📞 Contact
+## 👤 Author
 
-- **Course**: Python for Robotics
-- **Academy**: The Construct
-- **Project**: Final Mini Project
+**AmirHossein Osooli**
 
 ---
 
